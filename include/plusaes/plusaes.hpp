@@ -9,6 +9,7 @@
 
 #include <stdexcept>
 #include <vector>
+#include <cstring>
 
 /** Version number of plusaes.
  * 0x01020304 -> 1.2.3.4 */
